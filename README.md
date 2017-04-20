@@ -5,5 +5,5 @@ This is growing collection of notebooks where I examine a variety of hypotheses 
 
 1. testing_normal_body_temp.ipynb
 - test the generally accepted mean humany body temperature of 98.6 deg
-- assess whether male vs. female temperature differences exist in the current dataset
+- assess whether male vs. female temperature differences exist in the current dataset, from a 1992 [article](https://ww2.amstat.org/publications/jse/datasets/normtemp.txt)
 
