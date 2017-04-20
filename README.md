@@ -10,4 +10,5 @@ This is growing collection of notebooks where I examine a variety of hypotheses 
 2. racial_impact_resumes.ipynb
 - compare proportions of call backs received for identical resumes that were labeled with white- or black-sounding names
 - use chi-square test to determine if these proportions varied from those expected in general
+- data from an [experiment](https://www.povertyactionlab.org/evaluation/discrimination-job-market-united-states) on racial discrimination in the job market
 
